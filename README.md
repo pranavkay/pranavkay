@@ -20,13 +20,13 @@ Cross-conversation intelligence from call transcripts. Moat reads your entire ca
 
 ---
 
-#### 🌾 Open source: [India Grants Vault](https://github.com/pranavkay/india-grants-vault)
+#### 🌾 Open source: [India Grants Vault](https://github.com/pranavkay/speedrun-india-grants)
 
 An open-source knowledge base of **38+ active grants, funds, and non-dilutive financing** available to Indian startups. Interactive D3.js knowledge graph, full-text search, Obsidian-compatible vault.
 
 Central govt (SISFS, BIRAC, IndiaAI) · State govt (Karnataka Elevate, TN TANSEED) · International (EU EIC, USAID) · Cloud credits (AWS $100K, Google $350K, Azure $150K).
 
-→ [Browse the vault](https://github.com/pranavkay/india-grants-vault)
+→ [Browse the vault](https://github.com/pranavkay/speedrun-india-grants)
 
 ---
 
