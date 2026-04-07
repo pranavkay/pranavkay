@@ -4,7 +4,7 @@ I build products that read data differently.
 
 ---
 
-#### 🌳 Currently building: [Moat](https://moat.works)
+#### 🌳 All in: [Moat](https://moat.works)
 
 Cross-conversation intelligence from call transcripts. Moat reads your entire call archive together — not one at a time — and surfaces the patterns, contradictions, and competitive signals invisible in any single conversation.
 
@@ -14,30 +14,41 @@ Cross-conversation intelligence from call transcripts. Moat reads your entire ca
 - Detects what your CEO needs vs. what your sales manager needs from the same data
 - Privacy-first: raw transcripts never leave your machine
 
-**The insight that started it:** I ran 346 of my own client calls through the system. The first line of the report: *"You are running a founder therapy practice disguised as a design agency."* 73% of calls weren't about design. I closed the laptop and started building Moat full-time.
+**The insight that started it:** I ran 346 of my own client calls through the system. The first line of the report: *"You are running a therapy practice disguised as a design agency."* 73% of calls weren't about design. I closed the laptop and started building Moat full-time.
 
 → [moat.works](https://moat.works) · [Blog](https://moat.works/blog/) · [How it works](https://moat.works/how-it-works.html)
 
 ---
 
-#### 🏃 Also building: [Startup Speedrun](https://startupspeedrun.com)
+#### 🌾 Open source: [India Grants Vault](https://github.com/pranavkay/india-grants-vault)
 
-A community and resource hub for founders building in public.
+An open-source knowledge base of **38+ active grants, funds, and non-dilutive financing** available to Indian startups. Interactive D3.js knowledge graph, full-text search, Obsidian-compatible vault.
+
+Central govt (SISFS, BIRAC, IndiaAI) · State govt (Karnataka Elevate, TN TANSEED) · International (EU EIC, USAID) · Cloud credits (AWS $100K, Google $350K, Azure $150K).
+
+→ [Browse the vault](https://github.com/pranavkay/india-grants-vault)
+
+---
+
+#### 🏃 Give it forward: [Startup Speedrun](https://startupspeedrun.com)
+
+A community and resource hub for founders building in public. Tools, content, and connections for early-stage startups.
 
 ---
 
 #### Previously
 
-**Clean Design Co** — Design studio serving 56+ clients. Startups, funded companies, and enterprise. Ran it for years before Moat showed me what my own conversations were actually about.
+**Clean Design Co** — Design studio. 346 clients. Startups, funded companies, and enterprise. Ran it for years before Moat showed me what my own conversations were actually about.
 
 ---
 
 #### Writing
 
 - [What is cross-conversation analysis?](https://moat.works/blog/what-is-cross-conversation-analysis.html)
-- [72% of your call data is probably noise](https://moat.works/blog/72-percent-noise.html)
-- [Three things founders discover when they read their call data](https://moat.works/blog/what-founders-discover.html)
 - [This isn't AI magic. It's research methodology.](https://moat.works/blog/research-not-technology.html)
+- [Three things founders discover when they read their call data](https://moat.works/blog/what-founders-discover.html)
+- [72% of your call data is probably noise](https://moat.works/blog/72-percent-noise.html)
+- [The report that surprised us most](https://moat.works/blog/voice-of-customer-report.html)
 
 ---
 
